@@ -4,6 +4,7 @@
  *
  * Script using msgfmt-functions.php to write Gettext mo files from po files directly from php
  * from https://github.com/sproctor/php-calendar
+ * MIT licensed
  */
 require("msgfmt-functions.php");
 $locale_dir = "locale";
